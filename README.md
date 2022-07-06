@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Cami (she/her)!</h1>
+<h1 align="center">Hi 👋, I'm Cami</h1>
 
 ### Here is a little bit more about me:
 
@@ -41,5 +41,3 @@ Aside from my professional work, I am a very creative person that likes to draw,
 
 ![stats2 cami](https://github-readme-stats.vercel.app/api?username=camianderson&show_icons=true&theme=synthwave)
 ![stats cami](https://github-readme-stats.vercel.app/api/top-langs?username=camianderson&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
-
-
