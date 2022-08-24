@@ -37,7 +37,5 @@ Aside from my professional work, I am a very creative person that likes to draw,
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 
-[![GitHub Super-Linter](https://github.com/camianderson/camianderson/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
-
 ![stats2 cami](https://github-readme-stats.vercel.app/api?username=camianderson&show_icons=true&theme=synthwave)
 ![stats cami](https://github-readme-stats.vercel.app/api/top-langs?username=camianderson&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
